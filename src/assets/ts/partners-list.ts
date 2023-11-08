@@ -1,0 +1,65 @@
+const partnersList = [
+    {
+        partnerName:"创联光电",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/01.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"诺瓦科技",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/02.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"希尔顿",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/03.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"国星光电",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/04.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"洲明",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/05.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"灵星雨科技",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/06.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"深圳北站",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/07.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"信达光电",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/08.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"利亚德",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/09.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+    {
+        partnerName:"明纬电子",
+        coverImgUrl:"https://tentech.oss-cn-shenzhen.aliyuncs.com/images/partners/10.jpg",
+        isSelected:false,
+        isHover:false,
+    },
+]
+
+
+export default partnersList
