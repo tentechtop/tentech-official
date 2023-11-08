@@ -23,7 +23,7 @@ function createMap(){
       nextTick(() => {
         // 延迟一点点时间后再加载。否则
         AMapLoader.load({
-          key: '57c56b646db5005d46733a1ec1c29a12',
+          key: 'XXXXXXXXXXXXXXXXXXXXX',//替换成你的key
           version: '2.0',
           plugins: ['AMap.Autocomplete', 'AMap.PlaceSearch', 'AMap.Scale', 'AMap.OverView', 'AMap.ToolBar', 'AMap.MapType', 'AMap.PolyEditor', 'AMap.CircleEditor'],
         }).then((AMap) => {
