@@ -2,7 +2,7 @@ import type { ChatMessage } from "../../assets/types/index";
 
 export async function chat(messageList: ChatMessage[], apiKey: string) {
   const path1 = "https://api.openai.com/v1/chat/completions"
-  const path2 = "https://api.chatanywhere.com.cn/v1/chat/completions"
+  const path2 = "https://ai.tentech.top/v1/chat/completions"
 
   try {
     const result = await fetch(path2, {
