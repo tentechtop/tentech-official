@@ -21,7 +21,7 @@ npm run preview
 
 ## 在线预览体验
 
-- [地址http://175.178.181.75:9002/](http://175.178.181.75:9002/)
+- [地址http://led.tentech.top/](http://led.tentech.top/)
 
 
 
