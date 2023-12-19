@@ -136,8 +136,8 @@ function getAvailableButton(){
 
 const whiteList = ref(["/login", "/reset-password","/sign-up"]); // 不需要渲染的名单
 
-/*let apiKey = "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";*/
-let apiKey = "sk-VcsMNS2JQziQbWaFdmRvHBVqzIH0Ph6QNLN5a1X8QdaemMQ7";
+
+let apiKey = "sk-7eLfqi1P7HpkQswwrRqULae0Ocbjru8plvZGtiM";
 let isConfig = ref(true);
 let isTalking = ref(false);
 const isMouseOver = ref(false)
